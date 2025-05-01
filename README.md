@@ -28,16 +28,16 @@
    ```bash
    git clone https://github.com/DimasikL/Telecom_Labs.git
 2. Перейдите в каталог проекта:
-```bash
-cd Telecom_Labs
+   ```bash
+   cd Telecom_Labs
 
 3. Установите необходимые библиотеки:
-```bash
-pip install numpy matplotlib scipy jupyter
+   ```bash
+   pip install numpy matplotlib scipy jupyter
 
 Использование
 Запустите Jupyter Notebook:
-```bash
-jupyter notebook
+   ```bash
+   jupyter notebook
 Откройте интересующую вас лабораторную работу и следуйте инструкциям в ноутбуке.
 
